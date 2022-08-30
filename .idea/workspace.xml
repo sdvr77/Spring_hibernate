@@ -5,16 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9d4c5ef3-588d-4c23-822a-52fd557292db" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/2.2.1. spring_hibernate/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.2.1. spring_hibernate/spring_hibernate.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.2.1. spring_hibernate/src/main/java/hiber/MainApp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.2.1. spring_hibernate/src/main/java/hiber/config/AppConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.2.1. spring_hibernate/src/main/java/hiber/dao/UserDao.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.2.1. spring_hibernate/src/main/java/hiber/dao/UserDaoImp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.2.1. spring_hibernate/src/main/java/hiber/model/User.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.2.1. spring_hibernate/src/main/java/hiber/service/UserService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.2.1. spring_hibernate/src/main/java/hiber/service/UserServiceImp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.2.1. spring_hibernate/src/main/resources/db.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_hibernate.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spring_hibernate.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hiber/dao/CarDaoImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hiber/dao/CarDaoImp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hiber/dao/UserDaoImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hiber/dao/UserDaoImp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +30,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2Di1mMaIUAvp9wcwINJAdmxWKiA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="autoscrollToSource" value="true" />
